@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <img src="https://yt3.googleusercontent.com/I-eX5ECptVUuIoPmvWZy6PhU3CmJERpjrTYuz3vocEF6Apx2SUMnxtvU2cTBphFEPXk1ti9yIFo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Logo"> 
-  <h1>ZITI</h1>
+  <h1>TAROPICK</h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
